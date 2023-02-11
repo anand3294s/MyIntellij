@@ -1,0 +1,19 @@
+{
+  "Search": [
+    {
+      "name": "The Titanic",
+      "rating": "8.7",
+      "genre": "Romance"
+    },
+    {
+      "name": "The Equalizer",
+      "rating": "7.2",
+      "genre": "Action"
+    },
+    {
+      "name": "John Wick",
+      "rating": "7.7",
+      "genre": "Action"
+    }
+  ]
+}
